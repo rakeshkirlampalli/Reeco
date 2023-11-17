@@ -58,7 +58,7 @@ const Add = styled.div`
   height: 6px;
   font-size: 13px;
   position : absolute;
-  top: 1rem;
+  top: 0.4rem;
   right : 22rem;
 `;
 

@@ -20,10 +20,10 @@ const StyledSection = styled.div`
 `;
 const Header = styled.div`
   display: flex;
-  gap:38rem;
+  gap:25rem;
   align-items: center;
   justify-content: center;
-  width: 100%;
+  width: 80%;
   padding:1.4rem 4rem;
 `;
 const SearchBar = styled.div`
@@ -33,7 +33,7 @@ const SearchBar = styled.div`
 `;
 const SearchInput = styled.input`
   margin-right: 1rem;
-  width:450px;
+  width:430px;
   height:4.4vh;
   border-radius:20px;
   padding:.2rem 1rem;
@@ -46,7 +46,7 @@ const Addbutton=styled.button`
    background-color:transparent;
    font-weight:bold;
    color:#999090;
-   border:2px solid#999090;
+   border:1px solid#999090;
 `
 const ActionButtons = styled.div`
   display: flex;
@@ -90,7 +90,7 @@ const LeftDiv=styled.div`
 const RightDiv=styled.div`
  padding-right:1rem;
  display:flex;
- gap:5.5rem;
+ gap:5rem;
  margin-left:0rem
 `;
 const Selector=styled.div`
@@ -101,7 +101,7 @@ width:100%;
 color:#808080;
 display:flex;
 gap:2rem;
-border:2px solid #bbbbbb;
+border:0.2px solid #bbbbbb;
 box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1); 
 `
 const ProductImage=styled.img`
