@@ -10,7 +10,7 @@ const BodyContainer = styled.div`
   height: 100vh;
   overflow-y: auto; 
   flex-direction:column;
-  margin-top:9rem
+  margin-top:10rem
 `;
 
 const Body = () => {

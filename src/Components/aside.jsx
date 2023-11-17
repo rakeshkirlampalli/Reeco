@@ -11,7 +11,7 @@ import RiceBowlIcon from '@mui/icons-material/RiceBowl';
 import LunchDiningIcon from '@mui/icons-material/LunchDining';
 const StyledAside = styled.div`
   width: 83%;
-  margin: 2rem auto;
+  margin: 1rem auto;
   display: flex;
   flex-direction: row; /* Change flex direction to row */
   align-items: center;

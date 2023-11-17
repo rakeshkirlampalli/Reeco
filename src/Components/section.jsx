@@ -85,12 +85,12 @@ const Head=styled.div`
  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1); 
 `;
 const LeftDiv=styled.div`
- padding-left:9rem;
+ padding-left:6rem;
 `;
 const RightDiv=styled.div`
  padding-right:1rem;
  display:flex;
- gap:5rem;
+ gap:3rem;
  margin-left:0rem
 `;
 const Selector=styled.div`
