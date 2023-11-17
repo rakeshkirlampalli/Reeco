@@ -121,7 +121,7 @@ width:10%;
 padding:.5rem;
 `
 const ProductQuantity=styled.div`
-width:15%;
+width:20%;
 padding:.5rem;
 `
 const ProductTotal=styled.div`
@@ -215,7 +215,8 @@ width:20%;
 height:20vh;
 position:absolute;
 bottom:15%;
-left:40%
+left:40%;
+padding-bottom:5rem;
 `;
 const PopupButtons = styled.div`
 display: flex;
