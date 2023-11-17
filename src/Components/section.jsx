@@ -85,7 +85,7 @@ const Head=styled.div`
  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1); 
 `;
 const LeftDiv=styled.div`
- padding-left:6rem;
+ padding-left:3rem;
 `;
 const RightDiv=styled.div`
  padding-right:1rem;
@@ -231,6 +231,7 @@ const Editup = styled.div`
   height: 100%;
   background: rgba(0, 0, 0, 0.5);
   z-index: 1000;
+  margin-bottom:30px;
 `;
 const Div = styled.div`
   display: flex;
@@ -265,6 +266,7 @@ const FormWrapper = styled.div`
   width: 100%;
   max-width: 500px;
   margin: 0 auto;
+  margin-bottom:30px;
 `;
 const Section = () => {
   const [isApproved, setApproved] = useState(false);
